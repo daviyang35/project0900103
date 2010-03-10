@@ -22,6 +22,9 @@ namespace JiCheng
             //显示窗体(以模式对话框的形式)
             frm.ShowDialog();
             ////显示窗体(以非模式对话框的形式)
+
+
+
             //frm.Show();
         }
 
