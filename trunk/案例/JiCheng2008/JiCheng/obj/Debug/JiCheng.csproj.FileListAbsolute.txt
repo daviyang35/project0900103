@@ -9,3 +9,5 @@ C:\Documents and Settings\win\桌面\JiCheng2005\JiCheng\obj\Debug\JiCheng.FrmSt
 C:\Documents and Settings\win\桌面\JiCheng2005\JiCheng\obj\Debug\JiCheng.FrmTeacher.resources
 C:\Documents and Settings\win\桌面\JiCheng2005\JiCheng\obj\Debug\JiCheng.Properties.Resources.resources
 C:\Documents and Settings\win\桌面\JiCheng2005\JiCheng\obj\Debug\JiCheng.csproj.GenerateResource.Cache
+C:\Documents and Settings\fangxuanzheng\桌面\新建文件夹\trunk\案例\JiCheng2008\JiCheng\obj\Debug\JiCheng.exe
+C:\Documents and Settings\fangxuanzheng\桌面\新建文件夹\trunk\案例\JiCheng2008\JiCheng\obj\Debug\JiCheng.pdb
