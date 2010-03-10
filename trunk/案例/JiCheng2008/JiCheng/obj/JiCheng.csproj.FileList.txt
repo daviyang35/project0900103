@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\JiCheng.FrmMain.resources
+obj\Debug\JiCheng.FrmPerson.resources
+obj\Debug\JiCheng.Properties.Resources.resources
+obj\Debug\JiCheng.csproj.GenerateResource.Cache
+bin\Debug\JiCheng.exe
+bin\Debug\JiCheng.pdb
+obj\Debug\JiCheng.exe
+obj\Debug\JiCheng.pdb
+obj\Debug\JiCheng.FrmStudent.resources
+obj\Debug\JiCheng.FrmTeacher.resources
