@@ -15,6 +15,9 @@ namespace JiCheng
             get { return tno; }
             set { tno = value; }
         }
+
+
+
         string department;
         /// <summary>
         /// ≤ø√≈
