@@ -1,0 +1,14 @@
+G:\Projects\C#\学生信息管理系统\学生信息管理系统\bin\Debug\学生信息管理系统.exe.config
+G:\Projects\C#\学生信息管理系统\学生信息管理系统\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\C#\学生信息管理系统\学生信息管理系统\obj\Debug\学生信息管理系统.FrmCLA.resources
+G:\Projects\C#\学生信息管理系统\学生信息管理系统\obj\Debug\学生信息管理系统.FrmLogin.resources
+G:\Projects\C#\学生信息管理系统\学生信息管理系统\obj\Debug\学生信息管理系统.FrmMain.resources
+G:\Projects\C#\学生信息管理系统\学生信息管理系统\obj\Debug\学生信息管理系统.Properties.Resources.resources
+G:\Projects\C#\学生信息管理系统\学生信息管理系统\obj\Debug\学生信息管理系统.csproj.GenerateResource.Cache
+G:\Projects\C#\学生信息管理系统\学生信息管理系统\bin\Debug\学生信息管理系统.exe
+G:\Projects\C#\学生信息管理系统\学生信息管理系统\bin\Debug\学生信息管理系统.pdb
+G:\Projects\C#\学生信息管理系统\学生信息管理系统\bin\Debug\BLL.dll
+G:\Projects\C#\学生信息管理系统\学生信息管理系统\bin\Debug\BLL.pdb
+G:\Projects\C#\学生信息管理系统\学生信息管理系统\obj\Debug\学生信息管理系统.FrmDep.resources
+G:\Projects\C#\学生信息管理系统\学生信息管理系统\obj\Debug\学生信息管理系统.exe
+G:\Projects\C#\学生信息管理系统\学生信息管理系统\obj\Debug\学生信息管理系统.pdb

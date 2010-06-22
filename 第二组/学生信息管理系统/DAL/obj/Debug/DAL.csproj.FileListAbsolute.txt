@@ -1,0 +1,7 @@
+G:\Projects\C#\学生信息管理系统\DAL\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\C#\学生信息管理系统\DAL\bin\Debug\DAL.dll
+G:\Projects\C#\学生信息管理系统\DAL\bin\Debug\DAL.pdb
+G:\Projects\C#\学生信息管理系统\DAL\bin\Debug\Model.dll
+G:\Projects\C#\学生信息管理系统\DAL\bin\Debug\Model.pdb
+G:\Projects\C#\学生信息管理系统\DAL\obj\Debug\DAL.dll
+G:\Projects\C#\学生信息管理系统\DAL\obj\Debug\DAL.pdb
