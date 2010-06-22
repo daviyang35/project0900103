@@ -1,0 +1,5 @@
+G:\Projects\C#\学生信息管理系统\Model\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\C#\学生信息管理系统\Model\bin\Debug\Model.dll
+G:\Projects\C#\学生信息管理系统\Model\bin\Debug\Model.pdb
+G:\Projects\C#\学生信息管理系统\Model\obj\Debug\Model.dll
+G:\Projects\C#\学生信息管理系统\Model\obj\Debug\Model.pdb
